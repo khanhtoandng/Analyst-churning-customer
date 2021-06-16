@@ -12,5 +12,5 @@ We analyst data to find out the reason that customer leave the credit card servi
 ## DATASET
 * Source: https://www.kaggle.com/sakshigoyal7/credit-card-customers
 
-## USE;:
+## USE
 * Run file code: BT1_Nhóm 7.ipynb
